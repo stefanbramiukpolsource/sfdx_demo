@@ -1,0 +1,307 @@
+[
+    [
+        "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app",
+        {
+            "sourcePath": "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524744625799,
+            "changeTime": 1524744625799,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524744625799,
+            "changeTime": 1524744625799,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524761246370,
+            "changeTime": 1524761246370,
+            "contentHash": "0d3a463f60d73b9d4678db524753684bccd196c3"
+        }
+    ],
+    [
+        "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo",
+        {
+            "sourcePath": "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524758758471,
+            "changeTime": 1524758758471,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\settings\\Account.settings-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\settings\\Account.settings-meta.xml",
+            "isDirectory": false,
+            "size": 230,
+            "modifiedTime": 1524759587156,
+            "changeTime": 1524759587156,
+            "contentHash": "e2662cb7cfaf2804a12f5e817ff311c3e1bc5f09",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\classes\\AccountTriggerHandler.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\classes\\AccountTriggerHandler.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1524759587168,
+            "changeTime": 1524759587168,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\classes\\AccountTriggerHandler.cls",
+        {
+            "sourcePath": "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\classes\\AccountTriggerHandler.cls",
+            "isDirectory": false,
+            "size": 113,
+            "modifiedTime": 1524760793830,
+            "changeTime": 1524760793830,
+            "contentHash": "7fcb52bb6d630c91547a747562301de9b2f4c2a0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\triggers\\AccountTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\triggers\\AccountTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1524759587185,
+            "changeTime": 1524759587185,
+            "contentHash": "11d1a6c6f3290c9f995ba98867a37b5a576fb6ce",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\triggers\\AccountTrigger.trigger",
+        {
+            "sourcePath": "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\triggers\\AccountTrigger.trigger",
+            "isDirectory": false,
+            "size": 216,
+            "modifiedTime": 1524760842680,
+            "changeTime": 1524760842680,
+            "contentHash": "37ad3005df2055e5c0d103e401487f516b66c6cb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\settings",
+        {
+            "sourcePath": "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524759587154,
+            "changeTime": 1524759587154,
+            "contentHash": "0f0bd9abce0f1950f9e1fd5466ab1e7882f47cb6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524759587172,
+            "changeTime": 1524759587172,
+            "contentHash": "58a98fc3d5e451e1946d78db45a293a0cf9ba888",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\triggers",
+        {
+            "sourcePath": "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524759587187,
+            "changeTime": 1524759587187,
+            "contentHash": "acc54750b3a2aad756c0864b40e1712786e9e0c1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\objects\\Account\\fields\\IsBigCustomer__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\objects\\Account\\fields\\IsBigCustomer__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 340,
+            "modifiedTime": 1524761218977,
+            "changeTime": 1524761218977,
+            "contentHash": "b69467789be4cf46d39064b2873dfb7371288958",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\objects\\Account\\recordTypes\\Big_Customer.recordType-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\objects\\Account\\recordTypes\\Big_Customer.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 6556,
+            "modifiedTime": 1524761218986,
+            "changeTime": 1524761218986,
+            "contentHash": "b5fc7b7bd44802cdee6b340fa896589230b65166",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\objects\\Account\\recordTypes\\Customer.recordType-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\objects\\Account\\recordTypes\\Customer.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 6548,
+            "modifiedTime": 1524761218993,
+            "changeTime": 1524761218993,
+            "contentHash": "9c62b290a1fc2df1c58f914b80bd5f5d3655a860",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9822,
+            "modifiedTime": 1524761219024,
+            "changeTime": 1524761219024,
+            "contentHash": "d02faa22a1a6a2f5e4e2fd7a573b2c52130fd0c0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18540,
+            "modifiedTime": 1524761219226,
+            "changeTime": 1524761219226,
+            "contentHash": "152d5dc464e792b31975077bbd52732c8194b32c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "sourcePath": "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524761218975,
+            "changeTime": 1524761218975,
+            "contentHash": "1df17c31e103f03d70803eb7863f9b74ff22ea06",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\objects\\Account",
+        {
+            "sourcePath": "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524761218978,
+            "changeTime": 1524761218978,
+            "contentHash": "d6c387f132c8430365039f4ad3d7205a1904925d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524761218969,
+            "changeTime": 1524761218969,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\objects\\Account\\recordTypes",
+        {
+            "sourcePath": "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\objects\\Account\\recordTypes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524761218991,
+            "changeTime": 1524761218991,
+            "contentHash": "db71f7d73c42e20c3bac1b7135844548fa8eb8e0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524761298927,
+            "changeTime": 1524761298927,
+            "contentHash": "b2aa44986320a18245301bea220f7fe3f37f55d0"
+        }
+    ],
+    [
+        "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Stefan Abramiuk\\IdeaProjects\\sfdx_demo_workspace\\Aaron_workspace\\sfdx_demo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524761256125,
+            "changeTime": 1524761256125,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+        }
+    ]
+]
