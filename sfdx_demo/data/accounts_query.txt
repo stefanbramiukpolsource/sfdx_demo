@@ -1,0 +1,1 @@
+SELECT Id, Name, IsBigCustomer__c, (SELECT Id, FirstName, LastName FROM Contacts) FROM Account
